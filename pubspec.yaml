@@ -1,0 +1,12 @@
+name: ai_code_assistant
+description: A single Flutter app with integrated Dart backend for AI-driven code generation.
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.14.0
+  shelf: ^1.2.0
+  shelf_router: ^1.0.0
+  convert: ^3.0.1
